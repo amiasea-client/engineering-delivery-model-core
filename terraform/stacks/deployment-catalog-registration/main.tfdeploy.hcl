@@ -21,5 +21,3 @@ deployment "default" {
     stack_catalog    = upstream_input.stack_catalog_identification.stack_catalog
   }
 }
-
-# test
